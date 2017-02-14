@@ -10,4 +10,7 @@ $(document).ready(function() {
     $("#lorem-ip-p, #lorem-ip-pic").slideToggle();
     // $("lorem-ip-pic").slideDown()
   });
+  $("#die-lorem > h3").click(function(){
+    $("#die-lorem > p").slideUp("slow");
+  });
 });

@@ -20,3 +20,12 @@
 /*.row {
   float: left;
 }*/
+
+.add-border {
+  border-radius: 12px 4px 1px 100px;
+  border: 2px solid red;
+}
+
+.red-background {
+  background-color: red;
+}

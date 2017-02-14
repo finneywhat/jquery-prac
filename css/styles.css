@@ -7,3 +7,12 @@
   font-size: 60px;
   display: none;
 }
+
+#p-in-ponies{
+  display: none;
+  font-size: 30;
+}
+
+#lorem-ip-pic, #lorem-ip-p {
+  display: none;
+}
